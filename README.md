@@ -4,6 +4,10 @@
 
 This data analysis project aims to provide insights into the sales performance of Superstore over the past years. By analysing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding on the company's performance.
 
+
+![power BI sales dashboard](https://github.com/user-attachments/assets/9bd0ab7a-8c14-4b9b-8d15-43aae3f76ced)
+
+
 ### Data Source
 
 Sales Data: The primary data source use for this analysis is the "Superstore.csv" file containing detailed information about each sale made by the company.
